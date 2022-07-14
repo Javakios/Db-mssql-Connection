@@ -1,5 +1,5 @@
 const config ={
-    server: '2.85.29.250',  //update me
+    server: '94.67.85.41',  //update me
     authentication: {
         type: 'default',
         options: {
